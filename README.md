@@ -29,15 +29,25 @@ Options:
 ## Project Properties
 ### Intermediate representation optimization
 *Localization of global variables
+
 *Mem2Reg
+
 *Function inlining
+
 *Constant propagation
+
 *Rare condition constant propagation
+
 *Common subexpression deletion
+
 *Dead code deletion
+
 *Global Value Number
+
 *Loop optimization
+
 *Instruction scheduling
+
 *Control flow optimization
 
 ### Target code optimization
