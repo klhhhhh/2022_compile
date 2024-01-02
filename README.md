@@ -1,8 +1,12 @@
 # NKUER4
 2022 National College Student Computer System Ability Training Competition Compilation System Design Competition Project
+
 Team School: Nankai University
+
 Team Name: NKUER4
-Team members: Shi Haoming, Yan Shihui, Lin Kunmei, Junyi
+
+Team members: Shi Haoming, Yan Shihui, Lin Kun, Mei Junyi
+
 Guidance Teacher: Wang Gang, Li Zhongwei
 
 ## Project Introduction
@@ -53,10 +57,15 @@ Options:
 ### Target code optimization
 
 *Dead code deletion
+
 *Peephole optimization
+
 *Local value number
+
 *Control flow optimization
+
 *Multiplication and division optimization
+
 *Register allocation
 
 For detailed introduction, please refer to[文档](./NKUER4_final.pdf)
